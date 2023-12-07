@@ -3,3 +3,9 @@
 -- features: scale selection, octave range selection, control over JF knobs(?), sequencer length(?)
 -- 
 -- by saiiils
+
+function init()
+
+    ii.jf.mode(1)
+
+end
